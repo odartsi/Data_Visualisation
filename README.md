@@ -8,5 +8,6 @@ To serve the dashboard locally, use the command:
 panel serve Interactive_dashboard.ipynb 
 ![image](interactive_dashboard.png)
 
-- Basic_visualisations.ipynb : which icludes basic plots by using seaborn
+- Visualisations.ipynb : which icludes basic plots by using seaborn
+- Data Visualisation.pdf : is a presentation I created which is summarizing all the plots shown in the two notebooks
 
