@@ -9,7 +9,10 @@ panel serve Interactive_dashboard.ipynb
 
 
 
-https://github.com/odartsi/Data_Visualisation/assets/58295268/c19cdc29-edc7-46f5-aafc-ecec5bcf60d9
+https://github.com/odartsi/Data_Visualisation/assets/58295268/809ae9a5-3795-4e49-bd4f-f555c9f291e5
+
+
+
 - Visualisations.ipynb : which icludes basic plots by using seaborn
 - Data Visualisation.pdf : is a presentation I created which is summarizing all the plots shown in the two notebooks
 
