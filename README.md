@@ -9,8 +9,8 @@ panel serve Interactive_dashboard.ipynb
 
 
 
-https://github.com/odartsi/Data_Visualisation/assets/58295268/809ae9a5-3795-4e49-bd4f-f555c9f291e5
 
+https://github.com/odartsi/Data_Visualisation/assets/58295268/5a476bfc-6442-43ed-ac56-adb8e448b3f7
 
 
 - Visualisations.ipynb : which icludes basic plots by using seaborn
