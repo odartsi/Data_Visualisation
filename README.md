@@ -6,10 +6,10 @@ This repository includes to ipynb files:
 If you want to see all the dependencies for this project, please see requirements.txt file.
 To serve the dashboard locally, use the command:
 panel serve Interactive_dashboard.ipynb 
-![image](interactive_dashboard.png)
 
-![video](tips_dashboard_video.mov)
 
+
+https://github.com/odartsi/Data_Visualisation/assets/58295268/c19cdc29-edc7-46f5-aafc-ecec5bcf60d9
 - Visualisations.ipynb : which icludes basic plots by using seaborn
 - Data Visualisation.pdf : is a presentation I created which is summarizing all the plots shown in the two notebooks
 
